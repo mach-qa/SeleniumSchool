@@ -64,6 +64,13 @@ public class WebDriverFeaturesLesson extends TestBase {
         //actions.clickAndHold(drag).moveToElement(drop).release().perform();
         // LUB actions.dragAndDrop(drag, drop)
 
+        //Tabele
+        //Table w HTML pokazuje nam umiejscowienie tabeli
+        //driver.findElements(By.id("chooseFile")).
+        //for (WebElement element : elements)
+        //
+
+
         }
 
     public WebElement getRandomElement(List<WebElement> elements) {
